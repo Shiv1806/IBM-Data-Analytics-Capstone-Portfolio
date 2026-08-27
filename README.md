@@ -1,8 +1,8 @@
 # IBM Data Analytics Capstone Project
 
-A practical data analytics portfolio project covering **data exploration, data wrangling, exploratory analysis, SQL-based analysis, data visualisation, web scraping, and IBM Cognos dashboarding**.
+A practical data analytics portfolio project covering **data exploration, data wrangling, exploratory analysis, SQL-based analysis, data visualisation, web scraping and IBM Cognos dashboarding**.
 
-The project uses IBM Skills Network survey data and presents the results through Python notebooks, extracted data, and a multi-page IBM Cognos dashboard.
+The project uses IBM Skills Network survey data and presents the results through Python notebooks, extracted data and a multi-page IBM Cognos dashboard.
 
 ## Project at a glance
 
@@ -183,7 +183,7 @@ The Cognos dashboard itself is represented here through screenshots because the 
 
 See `docs/reproducibility.md` for details.
 
-## Portfolio / CV description
+## Project Summary for Portfolio
 
 > **IBM Data Analytics Capstone Project:** Analysed developer survey data using Python, Pandas, SQL and IBM Cognos. Performed data exploration, cleaning, missing-value treatment, compensation normalisation and exploratory analysis, then created visualisations and a multi-page Cognos dashboard covering current technology usage, future technology trends and respondent demographics. Also completed a web-scraping workflow to collect programming-language salary data.
 
